@@ -12,7 +12,7 @@
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 
 ### Contact
-![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=) Tksharmely#0001
+![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=) tksharmely
 <!--
 **Tksharmely/tksharmely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
